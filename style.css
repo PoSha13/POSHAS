@@ -1,0 +1,465 @@
+body{
+
+	margin: 0;
+
+	padding: 0;
+
+	color: #FFF;
+
+	background: url(res/fon.jpg) #000024 no-repeat center top;
+
+	//background: #ADA8A8;
+
+}
+
+.getlink{
+
+	float: right;
+
+	margin-right: 10px;
+
+}
+
+.getlink a{
+
+	color: #FFFFFF;
+
+}
+
+.aboutblock{
+
+	padding: 10px;
+
+	font-size: 18px;
+
+}
+
+.bgreen{border: 2px dotted #61EC36;}
+
+.byellow{border: 2px dotted #ECEA36;}
+
+.bpink{border: 2px dotted #FE10CA;}
+
+.bpurple{border: 2px dotted #8823B8;}
+
+
+
+.top{
+
+	background: #474747;
+
+	color: #8BA4B0;
+
+}
+
+.maincontainer{
+
+	width: 1000px;
+
+	height: 100%;
+
+	margin: 0 auto;
+
+	background: #737373
+
+}
+
+.account{
+
+	
+
+}
+
+.leftblock{
+
+	float: left;
+
+}
+
+.informers{
+
+	width: 720px;
+
+}
+
+.logomenu{
+
+	border-right: 1px dotted #757575;
+
+	border-bottom: 1px dotted #757575;
+
+}
+
+.inform{
+
+	float: left;
+
+	width: 179px;
+
+	border-right: 1px dotted #757575;
+
+}
+
+.logo{
+
+	float:left;
+
+}
+
+.logo img{
+
+	margin-left: 20px;
+
+	height: 50px;
+
+	width: 115px;
+
+}
+
+.menu{
+
+	float:right;
+
+	list-style: none;
+
+}
+
+.menu li{
+
+	float:left;
+
+	margin-right: 25px;
+
+}
+
+.menu li a{
+
+	text-decoration: none;
+
+	color: #8BA4B0;
+
+	padding: 5px 15px;
+
+}
+
+.menu li a:hover{
+
+	background: #383838;
+
+}
+
+.steamlogin{
+
+	float: right;
+
+	margin-top: 10px;
+
+	margin-right: 20px;
+
+}
+
+.login-link{
+
+	display: block;
+
+	background: url(res/login.png) no-repeat center;
+
+	height: 92px;
+
+	width: 250px;
+
+}
+
+.login-link:hover{
+
+	background: url(res/loginhover.png) no-repeat center;
+
+}
+
+.left {float: left;}
+
+.right {float: right;}
+
+.leftrule{
+
+	margin-left: 20px;
+
+	border-right: 1px dotted #5A61E2;
+
+	padding-right: 20px;
+
+}
+
+.centerrule{
+
+	margin-left: 20px;
+
+	border-right: 1px dotted #5A61E2;
+
+	padding-right: 20px;
+
+}
+
+.rightrule{
+
+	margin-right: 45px;
+
+	text-align: center;
+
+}
+
+.pb{
+
+	width: 600px;
+
+	margin: 0 auto;
+
+	text-align: cetner;
+
+	margin-bottom: 10px;
+
+	margin-left: 70px;
+
+}
+
+.miniinfo{
+
+	margin-right: 15px;
+
+}
+
+.minirules{
+
+	margin-top: 10px;
+
+	background: #DAE981;
+
+	color: #000;
+
+}
+
+.inf{
+
+	text-align: center;
+
+}
+
+.depbutton{
+
+	margin-top: 25px;
+
+}
+
+.depbutton a{
+
+	background: #11CC0F;
+
+	padding: 9px;
+
+	color: #fff;
+
+	border: 1px solid #223F21;
+
+	text-decoration: none;
+
+}
+
+.depbutton a:hover{
+
+	background: #055804;
+
+}
+
+.game{
+
+	width: 100%;
+
+}
+
+.gamestarted{
+
+	text-align: center;
+
+	background: #66E765;
+
+	color: #4E25BB;
+
+	padding-top: 5px;
+
+	padding-bottom: 10px;
+
+}
+
+.title{
+
+	font-size: 30px;
+
+}
+
+.profile{
+
+	color: #fff;
+
+}
+
+.avatar{
+
+	width: 64px;
+
+	height: 64px;
+
+	float: left;
+
+	margin-left: 10px;
+
+	margin-top: 10px;
+
+}
+
+.nickname{
+
+	float: right;
+
+	margin-right: 88px;
+
+	padding-top: 10px;
+
+}
+
+.logout{
+
+	margin-left: 805px;
+
+}
+
+.logout a{
+
+	color: #FFF;
+
+}
+
+.ctradelink{
+
+	width: 500px;
+
+	margin: 0 auto;
+
+	text-align: center;
+
+}
+
+.ctradelink a{
+
+	text-decoration: none;
+
+	background: #E4E75A;
+
+	//padding-top: 2px;
+
+	//padding-bottom: 3px;
+
+	padding: 3px;
+
+	border: 1px solid #223F21;
+
+	color: #000000;
+
+}
+
+.ctradelink a:hover{
+
+	background: #A0A324;
+
+}
+
+.gameava{
+
+	width: 64px;
+
+	height: 64px;
+
+	float: left;
+
+	margin: 10px;
+
+}
+
+.deptext{
+
+	font-size: 22px;
+
+	margin-top: 25px;
+
+	float: left;
+
+	text-align: center;
+
+	width: 75%;
+
+	color: #000000;
+
+}
+
+.itemimg{
+
+	float: right;
+
+	margin-right: 20px;
+
+}
+
+#tradelink, #tradeSteamID{
+
+	font-size: 12px;
+
+	border: 1px solid #5b656e;
+
+	height: 21px;
+
+	//line-height: 23px;
+
+	border-radius: 3px 0px 0px 3px;
+
+	background-color: #414b54;
+
+	outline: none;
+
+	color: #8db0bf;
+
+	width: 300px;
+
+}
+
+#gameinform{
+
+	background: #2CB8D6;
+
+}
+
+#gamecounter{
+
+	width: 500px;
+
+	margin: 0 auto;
+
+	background: #ECF6CE;
+
+	margin-bottom: 15px;
+
+	padding-top: 10px;
+
+	padding-bottom: 10px;
+
+	text-align: center;
+
+	font-size: 21px;
+
+	box-shadow: 5px 5px 10px 3px rgba(0, 0, 0, 0.5);
+
+}
+
+.gametime.gamepause {
+  text-align: center;
+  background-color: #FCF575;
+  line-height: 80px;
+}

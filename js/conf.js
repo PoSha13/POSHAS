@@ -1,0 +1,1 @@
+window.app=window.app||{};app.backends=['http://ezyskins.ru','http://ezyskins.ru'];app.debug=false;app.maxItems=70;app.filter=function filter(str){if(str==null)str='';return str.replace(/golucky|голаки|gojackpot|starlucky|shop|skinarena|raffle|csgoup|goshuffle|gameluck|gostar|casino|goskins|[^t]\.com/gi,'тест','***');}
